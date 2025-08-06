@@ -27,17 +27,20 @@ This project demonstrates the design and development of a low-cost, remotely ope
 - 3D Printed Propellers and Structural Parts
 - PVC Tubes for Buoyancy
 
-## 📸 Sample Images
-
-![test](results/Testing in IITG_Lake.png)
+## 📸 Field Deployment
+<p align="center">
+  <img src = "results/brahmaputra_test.png" width = "45%" height = "350">
+  <img src = "results/Testing_in_IITG_Lake.png" width = "45%" height = "342">
+</p>
 
 ## 👨‍🔬 Developed By
+<tr> <td align="center"> <strong>G. Lakshmi Vara Prasad</strong><br> Junior Research Fellow (JRF)<br> <em>IIT Guwahati - Technology Innovation and Development Foundation</em> </td> </tr> <br>
 
-**G. Lakshmi Vara Prasad**  
-Junior Research Fellow (JRF)  
-TIH-TIDF, Indian Institute of Technology Guwahati  
-Under the guidance of **Prof. S. K. Dwivedy**
+## 🧭 Project Guidance
+<tr> <td align="center"> <strong>Prof. S. K. Dwivedy</strong><br> Project Director<br> <em>IIT Guwahati - Technology Innovation and Development Foundation</em> </td> </tr> 
 
+## Acknowldgement  
+I sincerely thank Mr. Alok Singh Negi (Design), Mr. Om Kumar (Manufacturing), and Mr. Sachit Narayan Pandey (Power Management) for their valuable contributions to this project.
 
 ## 📄 License
 
