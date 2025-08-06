@@ -29,8 +29,8 @@ This project demonstrates the design and development of a low-cost, remotely ope
 
 ## 📸 Field Deployment
 <p align="center">
-  <img src = "results/brahmaputra_test.png" width = "45%" height = "342">
-  <img src = "results/Testing_in_IITG_Lake.png" width = "45%" height = "342">
+  <img src="results/brahmaputra_test.png" width="45%">
+  <img src="results/Testing_in_IITG_Lake.png" width="45%">
 </p>
 
 ## 👨‍🔬 Developed By
