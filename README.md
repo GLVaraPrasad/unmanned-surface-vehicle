@@ -12,7 +12,7 @@ This project demonstrates the design and development of a low-cost, remotely ope
 
 ## 📂 Repository Structure
 
-- `src/surface_vehicle`: Arduino code for controlling propulsion, conveyor, and cutting mechanisms.
+- `src/`: Arduino code for controlling propulsion, conveyor, and cutting mechanisms.
 - `images/`: Photos from testing and component views.
 - `results/`: Testing videos from IITG Lake and Bramhaputra river.
 
